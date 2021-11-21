@@ -1,0 +1,164 @@
+.cookie-consent-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 2147483645;
+    box-sizing: border-box;
+    width: 100%;
+
+    background-color: #F1F6F4;
+  }
+
+  .cookie-consent-banner__inner {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 32px 0;
+  }
+
+  .cookie-consent-banner__copy {
+    margin-bottom: 16px;
+  }
+
+  .cookie-consent-banner__actions {
+  }
+
+  .cookie-consent-banner__header {
+    margin-bottom: 8px;
+
+    font-family: "CeraPRO-Bold", sans-serif, arial;
+    font-weight: bold;
+    color: #535657;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .cookie-consent-banner__description {
+    font-family: "CeraPRO-Regular", sans-serif, arial;
+    font-weight: normal;
+    color: #535657;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .cookie-consent-banner__cta {
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 164px;
+    padding: 11px 13px;
+
+    border-radius: 2px;
+
+    background-color: #09a451;
+
+    color: #FFF;
+    text-decoration: none;
+    text-align: center;
+    font-family: "CeraPRO-Regular", sans-serif, arial;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  .cookie-consent-banner__cta--secondary {
+    padding: 9px 13px;
+
+    border: 2px solid #3A4649;
+
+    background-color: transparent;
+
+    color:  #09a451;
+  }
+
+  .cookie-consent-banner__cta:hover {
+    background-color:  #09a451;
+  }
+
+  .cookie-consent-banner__cta--secondary:hover {
+    border-color: #838F93;
+
+    background-color: transparent;
+
+    color: #09a451;
+  }
+
+  .cookie-consent-banner__cta:last-child {
+    margin-left: 16px;
+  }
+
+/**********    responsive   *********/
+
+  @media screen and (max-width: 989px) {
+
+
+    .cookie-consent-banner__copy {
+      margin-bottom: 6px;
+    }
+
+    .cookie-consent-banner__actions {
+    }
+
+    .cookie-consent-banner__header {
+      margin-bottom: 2px;
+
+      font-family: "CeraPRO-Bold", sans-serif, arial;
+      font-weight: bold;
+      color: #535657;
+      font-size: 12px;
+      line-height: 24px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .cookie-consent-banner__description {
+      font-family: "CeraPRO-Regular", sans-serif, arial;
+      font-weight: normal;
+      color: #535657;
+      font-size: 12px;
+      line-height: 16px;
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    .cookie-consent-banner__cta {
+      box-sizing: border-box;
+      display: inline-block;
+      min-width: 124px;
+      padding: 5px 5px;
+      margin-left: 10px;
+
+
+      border-radius: 5px;
+
+      background-color: #09a451;
+
+      color: #FFF;
+      text-decoration: none;
+      text-align: center;
+      font-family: "CeraPRO-Regular", sans-serif, arial;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 20px;
+    }
+
+    .cookie-consent-banner__cta--secondary {
+      padding: 4px 5px;
+      border: 2px solid #3A4649;
+      background-color: transparent;
+      color:  #09a451;
+    }
+
+    .cookie-consent-banner__cta:hover {
+      background-color:  #09a451;
+    }
+
+    .cookie-consent-banner__cta--secondary:hover {
+      border-color: #838F93;
+      background-color: transparent;
+      color: #09a451;
+    }
+
+    .cookie-consent-banner__cta:last-child {
+      margin-left: 40px;
+    }
+
+  }

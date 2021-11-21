@@ -1,0 +1,400 @@
+  
+.bg {
+	background-color: rgb(91, 90, 90);
+	width: 300px;
+	height: 15px;
+	margin: 0 center;
+	border-radius: 14px;
+	
+  }
+  
+  .left {
+	float: left;
+  }
+  
+  .right {
+	float: right;
+  }
+  /******************************* progress A **************************************/
+  .progressa {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	width: 40%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+  /******************************* progress B **************************************/
+  .progressb {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	width: 35%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+
+	
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+/******************************* progress C **************************************/
+.progressc {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	width: 15%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+
+  /******************************* progress D **************************************/
+.progressd {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	width: 20%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+    /******************************* progress E **************************************/
+.progresse {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	width: 10%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+
+    /******************************* progress F **************************************/
+.progressf {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #009999 25%, #7deded 25%,
+	  #7deded 50%, #009999 50%,
+	  #009999 75%, #7deded 75%
+	);
+	width: 10%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+
+
+
+
+      /******************************* progress H **************************************/
+	  .progressh {
+		background: -webkit-linear-gradient(
+		  135deg,
+		  #009999 25%, #7deded 25%,
+		  #7deded 50%, #009999 50%,
+		  #009999 75%, #7deded 75%
+		);
+		
+		background: -moz-linear-gradient(
+		  135deg,
+		  #009999 25%, #7deded 25%,
+		  #7deded 50%, #009999 50%,
+		  #009999 75%, #7deded 75%
+		);
+		
+		background: -o-linear-gradient(
+		  135deg,
+		  #009999 25%, #7deded 25%,
+		  #7deded 50%, #009999 50%,
+		  #009999 75%, #7deded 75%
+		);
+		width: 45%;
+		height: 15px;
+		line-height: 15px;
+		color: #393838;
+		background-size: 50px 50px;
+		border-radius: 15px;
+		font-size: 19px;
+		font-weight: 900;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		
+		-webkit-animation: bar-animation 3s linear infinite;
+	  
+	  }
+
+
+
+  /******************************* progress ILLUSTRATOR **************************************/
+  .progress1 {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%, #f4a467 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%, #f4a467 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%,#f4a467 75%
+	);
+	width: 55%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+
+  /******************************* progress PHOTOSHOP**************************************/
+  .progress2 {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%, #f4a467 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%, #f4a467 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%,#f4a467 75%
+	);
+	width: 45%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+
+  /******************************* progress OFFICE 365PHOTOSHOP **************************************/
+  .progress3 {
+	background: -webkit-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%, #f4a467 75%
+	);
+	
+	background: -moz-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%, #f4a467 75%
+	);
+	
+	background: -o-linear-gradient(
+	  135deg,
+	  #ffe079 25%, #f4a467 25%,
+	  #f4a467 50%, #ffe079  50%,
+	  #ffe079  75%,#f4a467 75%
+	);
+	width: 55%;
+	height: 15px;
+	line-height: 15px;
+	color: #393838;
+	background-size: 50px 50px;
+	border-radius: 15px;
+	font-size: 19px;
+	font-weight: 900;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+	-webkit-animation: bar-animation 3s linear infinite;
+  
+  }
+  
+  @-webkit-keyframes bar-animation {
+	0% {
+	  background-position: 0 0;
+	}
+	100% {
+	  background-position: 50px 50px;
+	}
+  }

@@ -1,0 +1,14 @@
+
+
+	.btn {
+		display: inline-block;
+		text-align: center;
+		padding: 10px 15px;
+		cursor: pointer;
+		font-size: 22px;
+		border-radius: 13px;
+		background-color: rgb(140, 134, 145);
+		color: rgb(240, 233, 233);
+		margin-top: 15px;
+		margin-left: center;
+	}
